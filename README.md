@@ -1,5 +1,5 @@
 # vue-atomic-design
-Projeto desenvolvido durante o curso 'Atomic Design', ministrado na plataforma Cataline.
+Repositório criado para desenvolvimento do projeto apresentado no curso 'Atomic Design', ministrado pela plataforma Cataline.
 
 ![ScreenShot](/src/assets/images/Screenshot_1.png)
 
